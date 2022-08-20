@@ -219,7 +219,7 @@ color: var(--text-color);
 
 .top-banner
 {
-    background: url(background.jpg) no-repeat center;
+    background: url("background.jpg") no-repeat center;
     background-size: 100% 100%;
     padding: 12.375rem 0 9.125rem;
     width: 100%;
